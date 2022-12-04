@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">eGreaserTechnician</string>
+    <string name="base_url_b2c">https://docs.google.com/forms/d/e/1FAIpQLSf6GA1g79REJq5S776Due7giMrY5rG1fhtyWQ_gnO7PNtkPcQ/viewform?usp=sf_link</string>
+    <string name="base_url_b2b">https://docs.google.com/forms/d/e/1FAIpQLSdtDYO6S1ihW0q6bIt1foNkTJO9DN-5U0xt0u8Hilz9G9AwYw/viewform?usp=sf_link</string>
+    <string name="btoc">B2C</string>
+    <string name="btob">B2B</string>
+</resources>
